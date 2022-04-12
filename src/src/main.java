@@ -18,6 +18,7 @@ public class main {
         // TODO code application logic here
         System.out.println("Prof. Jair Ferraz");
         System.out.println("Senac Tech");
+        System.out.println("Curso: TDS");
     }
     
 }
